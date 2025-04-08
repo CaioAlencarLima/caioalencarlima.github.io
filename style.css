@@ -94,7 +94,7 @@ nav ul li a {
     }
 
     nav ul li {
-        margin: 0; /* Remove a margem entre os itens */
+        margin: 10px; /* Remove a margem entre os itens */
     }
 
     nav ul li a {
